@@ -94,6 +94,7 @@ import arrMultiply from './array-multiplier'
 import second from './second'
 import armstrong from './armstrong'
 import getTriangleType from './getTriangleType'
+import isObject from './is-object'
 
 export {
   reverseArrayInPlace,
@@ -192,5 +193,5 @@ export {
   second,
   armstrong,
   getTriangleType,
-  
+  isObject,
 }
